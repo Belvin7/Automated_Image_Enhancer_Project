@@ -1,4 +1,4 @@
-#!/home/belvin/Desktop/INFORMATIK/Python-scripting-project/venv/bin/python3
+#!/home/belvin/Desktop/INFORMATIK/Python-scripting-project/Automated_Image_Enhancer/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

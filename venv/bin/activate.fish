@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /home/belvin/Desktop/INFORMATIK/Python-scripting-project/venv
+set -gx VIRTUAL_ENV /home/belvin/Desktop/INFORMATIK/Python-scripting-project/Automated_Image_Enhancer/venv
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH
